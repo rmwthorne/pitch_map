@@ -2,7 +2,7 @@
 
 # Pitch Converter
 
-This is a small Rust command-line program for learning that a numeric pitch value into its corresponding musical note. The pitch values are based on MIDI note numbers, where the number `0` corresponds to the note **C4** (MIDI Note 60). 
+This is a small Rust command-line program for learning purposes. It converts a numeric pitch value (such as is used in karaoke software like [Ultrastar Deluxe](https://usdx.eu/format/)) into its corresponding musical note. The pitch values are based on MIDI note numbers, where the number `0` corresponds to the note **C4** (MIDI Note 60). 
 
 ## How It Works
 
